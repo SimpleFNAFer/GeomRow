@@ -1,0 +1,7 @@
+E:\Настя\AppProjectsVS\GeomRow\bin\Debug\GeomRow.exe.config
+E:\Настя\AppProjectsVS\GeomRow\bin\Debug\GeomRow.exe
+E:\Настя\AppProjectsVS\GeomRow\bin\Debug\GeomRow.pdb
+E:\Настя\AppProjectsVS\GeomRow\obj\Debug\GeomRow.csprojAssemblyReference.cache
+E:\Настя\AppProjectsVS\GeomRow\obj\Debug\GeomRow.csproj.CoreCompileInputs.cache
+E:\Настя\AppProjectsVS\GeomRow\obj\Debug\GeomRow.exe
+E:\Настя\AppProjectsVS\GeomRow\obj\Debug\GeomRow.pdb
